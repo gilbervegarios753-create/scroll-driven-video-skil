@@ -4,6 +4,7 @@ Agent skill: build a cinematic web experience where a video (or WebP+Canvas sequ
 
 ## Install
 
-`npx skills add gilbervegarios753-create/scroll-driven-video-skill`
+`npx skills add gilbervegarios753-create/scroll-driven-video-skil`
+
 
 
